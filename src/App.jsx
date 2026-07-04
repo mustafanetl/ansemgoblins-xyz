@@ -255,9 +255,8 @@ export default function App() {
               </div>
             </div>
 
-            <div className="hero-art" aria-label="Fee Goblin and black bull mascot">
-              <img className="bull" src="/assets/blackbull-transparent.png" alt="Black Bull" />
-              <img className="goblin" src="/assets/goblin-transparent.png" alt="Fee Goblin" />
+            <div className="hero-art" aria-label="Fee Goblin riding the black bull mascot">
+              <img className="hero-rider" src="/assets/goblin-bull-hero.png" alt="Fee Goblin riding black bull" />
             </div>
           </div>
           <div className="hero-live mono">
