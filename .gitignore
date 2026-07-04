@@ -8,3 +8,5 @@ manlets_*.*
 manlet-*.png
 site_assets/
 output/
+
+.vercel
