@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vercel/
+npm-debug.log*
+
+# local research artifacts
+manlets_*.*
+manlet-*.png
+site_assets/
+output/
